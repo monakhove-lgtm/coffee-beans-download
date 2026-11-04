@@ -1,8 +1,14 @@
-# <img src="assets/coffee-beans-launcher.svg" alt="Coffee Beans" width="40" height="40"> ☕ Coffee Beans — ваш кофейный журнал
+<p align="center">
+  <img src="assets/coffee-beans-launcher.svg" alt="Логотип Coffee Beans" width="68" height="68">
+</p>
+
+<h1 align="center">Coffee Beans <img src="assets/scattered-coffee-beans.svg" alt="Рассыпанные зёрна кофе" width="84"></h1>
+
+<p align="center"><strong>Ваш кофейный журнал</strong><br>От зерна до любимого рецепта</p>
 
 **Coffee Beans** — Android-приложение для любителей кофе: от выбора зерна до любимого рецепта. Основные функции работают без интернета и регистрации.
 
-**[⬇️ Скачать последнюю версию Coffee Beans (APK)](https://github.com/monakhove-lgtm/coffee-beans-download/releases/latest/download/CoffeeBeans.apk)**
+<p align="center"><strong>[⬇️ Скачать Coffee Beans для Android](https://github.com/monakhove-lgtm/coffee-beans-download/releases/latest/download/CoffeeBeans.apk)</strong></p>
 
 После скачивания откройте файл `CoffeeBeans.apk` на Android и подтвердите установку. Новая версия устанавливается поверх предыдущей, сохраняя данные приложения.
 
