@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/coffee-beans-banner.webp" alt="Coffee Beans — логотип Co/Be в окружении кофейных зёрен. Ваш кофейный журнал — от зерна до любимого рецепта." width="850">
+  <img src="assets/coffee-beans-banner-transparent.png" alt="Coffee Beans — логотип Co/Be в окружении кофейных зёрен. Ваш кофейный журнал — от зерна до любимого рецепта." width="850">
 </p>
 
 **Coffee Beans** — Android-приложение для любителей кофе: от выбора зерна до любимого рецепта. Основные функции работают без интернета и регистрации.
