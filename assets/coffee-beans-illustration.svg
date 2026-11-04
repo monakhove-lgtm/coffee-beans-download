@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="188" viewBox="0 0 400 94" role="img" aria-labelledby="title desc">
+  <title id="title">Coffee Beans — кофейный натюрморт</title>
+  <desc id="desc">Опрокинутая круглодонная колба, чашка кофе с паром, лежащая ручная кофемолка и рассыпанные кофейные зёрна.</desc>
+  <!-- Статичная SVG-версия иллюстрации из Canvas раздела «О приложении». -->
+  <g stroke="#d8ac91" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Колба и капля. -->
+    <g transform="translate(100 50.64) rotate(-12)">
+      <path d="M -36.848 -5 H -18.848 A 19.5 19.5 0 1 1 -18.848 5 H -36.848 Z" fill="#d8ac91" fill-opacity=".14"/>
+      <path d="M -36.848 -7.4 V 7.4" fill="none"/>
+      <path d="M -17.848 5 Q -9.34 4.608 -1.832 9.817 Q 6.677 12.425 14.185 12.234" fill="none" stroke-width="1.4"/>
+      <path d="M -39.148 0 C -43.348 -3 -45.548 -1.4 -45.548 .4 C -45.548 2.2 -43.348 3 -39.148 0 Z" fill="#d8ac91" fill-opacity=".14" stroke-width="1.4"/>
+    </g>
+    <!-- Чашка кофе. -->
+    <g transform="translate(208 54.64)">
+      <path d="M -13 -9 H 13 V 3 Q 13 13 0 13 Q -13 13 -13 3 Z" fill="#d8ac91" fill-opacity=".14"/>
+      <path d="M 13 -5.6 H 16.2 Q 22 -5.6 20 3 Q 18.5 8.4 12.5 8.4" fill="none"/>
+      <path d="M -16.5 16.4 H 17.5" fill="none"/>
+      <path d="M -4.2 -13.6 C -7 -19 -1.4 -23 -4.2 -27.6 M 4.2 -13.6 C 1.4 -19 7 -23 4.2 -27.6" fill="none" stroke-width="1.4"/>
+    </g>
+    <!-- Лежащая ручная кофемолка. -->
+    <g transform="translate(308 53.64) rotate(-80)">
+      <path d="M -8.17 -16.125 H 8.17 Q 9.675 -16.125 9.675 -14.62 V 21.07 Q 9.675 24.725 6.02 24.725 H -6.02 Q -9.675 24.725 -9.675 21.07 V -14.62 Q -9.675 -16.125 -8.17 -16.125 Z" fill="#d8ac91" fill-opacity=".14"/>
+      <path d="M -9.675 -9.675 H 9.675 M -9.675 7.525 H 9.675" fill="none" stroke-width="1.4"/>
+      <path d="M -3.87 -6.02 V .43 M 0 -6.02 V .43 M 3.87 -6.02 V .43" fill="none" stroke-width="1.4"/>
+      <path d="M 0 -16.125 V -23.22 L 11.18 -26.66 H 17.2 V -22.79" fill="none"/>
+      <path d="M 13.545 -22.79 H 20.855 L 19.565 -16.34 Q 18.92 -15.05 17.2 -15.05 Q 15.48 -15.05 14.835 -16.34 Z" fill="#d8ac91" fill-opacity=".14"/>
+    </g>
+  </g>
+  <!-- Кофейные зёрна: расположение соответствует первоначальному состоянию Canvas. -->
+  <g stroke="#d8ac91" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(24 68.64) rotate(-18)">
+      <ellipse cx="0" cy="0" rx="5.52" ry="3.68" fill="#553b31"/>
+      <path d="M -4.14 0 C -1.38 -2.134 1.38 2.134 4.14 0" fill="none"/>
+    </g>
+    <g transform="translate(52 73.64) rotate(28)">
+      <ellipse cx="0" cy="0" rx="4.92" ry="3.28" fill="#553b31"/>
+      <path d="M -3.69 0 C -1.23 -1.902 1.23 1.902 3.69 0" fill="none"/>
+    </g>
+    <g transform="translate(148 66.64) rotate(-24)">
+      <ellipse cx="0" cy="0" rx="5.52" ry="3.68" fill="#553b31"/>
+      <path d="M -4.14 0 C -1.38 -2.134 1.38 2.134 4.14 0" fill="none"/>
+    </g>
+    <g transform="translate(164 74.64) rotate(16)">
+      <ellipse cx="0" cy="0" rx="4.92" ry="3.28" fill="#553b31"/>
+      <path d="M -3.69 0 C -1.23 -1.902 1.23 1.902 3.69 0" fill="none"/>
+    </g>
+    <g transform="translate(260 70.64) rotate(-32)">
+      <ellipse cx="0" cy="0" rx="5.52" ry="3.68" fill="#553b31"/>
+      <path d="M -4.14 0 C -1.38 -2.134 1.38 2.134 4.14 0" fill="none"/>
+    </g>
+    <g transform="translate(280 62.64) rotate(22)">
+      <ellipse cx="0" cy="0" rx="4.92" ry="3.28" fill="#553b31"/>
+      <path d="M -3.69 0 C -1.23 -1.902 1.23 1.902 3.69 0" fill="none"/>
+    </g>
+    <g transform="translate(372 71.64) rotate(-15)">
+      <ellipse cx="0" cy="0" rx="5.52" ry="3.68" fill="#553b31"/>
+      <path d="M -4.14 0 C -1.38 -2.134 1.38 2.134 4.14 0" fill="none"/>
+    </g>
+  </g>
+</svg>
