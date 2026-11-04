@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="assets/coffee-beans-launcher.svg" alt="Логотип Coffee Beans" width="68" height="68">
+  <img src="assets/coffee-beans-banner.webp" alt="Coffee Beans — логотип Co/Be в окружении кофейных зёрен. Ваш кофейный журнал — от зерна до любимого рецепта." width="850">
 </p>
-
-<h1 align="center">Coffee Beans <img src="assets/scattered-coffee-beans.svg" alt="Рассыпанные зёрна кофе" width="84"></h1>
-
-<p align="center"><strong>Ваш кофейный журнал</strong><br>От зерна до любимого рецепта</p>
 
 **Coffee Beans** — Android-приложение для любителей кофе: от выбора зерна до любимого рецепта. Основные функции работают без интернета и регистрации.
 
