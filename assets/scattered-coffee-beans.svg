@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="84" viewBox="0 0 180 84" role="img" aria-labelledby="title description">
+  <title id="title">Кофейные зёрна</title>
+  <desc id="description">Небольшая россыпь натуральных кофейных зёрен рядом с названием Coffee Beans.</desc>
+  <g transform="translate(16 52) rotate(-29) scale(0.8)">
+    <path d="M0,-14 C-7,-15 -13,-8 -12,1 C-11,10 -4,15 4,13 C12,11 15,2 12,-6 C10,-11 5,-14 0,-14 Z" fill="#C79A74" stroke="#6C462F" stroke-width="1.7" stroke-linejoin="round"/>
+    <path d="M5,-12 C-3,-6 4,-1 -2,5 C-4,7 -4,10 -3,12" fill="none" stroke="#4B3023" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M-8,-1 C-7,-5 -5,-8 -2,-10" fill="none" stroke="#F2D0A7" stroke-width="1.45" stroke-linecap="round" opacity=".65"/>
+  </g>
+  <g transform="translate(43 21) rotate(26) scale(0.72)">
+    <path d="M0,-14 C-7,-15 -13,-8 -12,1 C-11,10 -4,15 4,13 C12,11 15,2 12,-6 C10,-11 5,-14 0,-14 Z" fill="#916346" stroke="#6C462F" stroke-width="1.7" stroke-linejoin="round"/>
+    <path d="M5,-12 C-3,-6 4,-1 -2,5 C-4,7 -4,10 -3,12" fill="none" stroke="#4B3023" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M-8,-1 C-7,-5 -5,-8 -2,-10" fill="none" stroke="#F2D0A7" stroke-width="1.45" stroke-linecap="round" opacity=".65"/>
+  </g>
+  <g transform="translate(54 63) rotate(40) scale(0.85)">
+    <path d="M0,-14 C-7,-15 -13,-8 -12,1 C-11,10 -4,15 4,13 C12,11 15,2 12,-6 C10,-11 5,-14 0,-14 Z" fill="#BC8965" stroke="#6C462F" stroke-width="1.7" stroke-linejoin="round"/>
+    <path d="M5,-12 C-3,-6 4,-1 -2,5 C-4,7 -4,10 -3,12" fill="none" stroke="#4B3023" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M-8,-1 C-7,-5 -5,-8 -2,-10" fill="none" stroke="#F2D0A7" stroke-width="1.45" stroke-linecap="round" opacity=".65"/>
+  </g>
+  <g transform="translate(85 39) rotate(-37) scale(1.1)">
+    <path d="M0,-14 C-7,-15 -13,-8 -12,1 C-11,10 -4,15 4,13 C12,11 15,2 12,-6 C10,-11 5,-14 0,-14 Z" fill="#AB7755" stroke="#6C462F" stroke-width="1.7" stroke-linejoin="round"/>
+    <path d="M5,-12 C-3,-6 4,-1 -2,5 C-4,7 -4,10 -3,12" fill="none" stroke="#4B3023" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M-8,-1 C-7,-5 -5,-8 -2,-10" fill="none" stroke="#F2D0A7" stroke-width="1.45" stroke-linecap="round" opacity=".65"/>
+  </g>
+  <g transform="translate(115 16) rotate(37) scale(0.65)">
+    <path d="M0,-14 C-7,-15 -13,-8 -12,1 C-11,10 -4,15 4,13 C12,11 15,2 12,-6 C10,-11 5,-14 0,-14 Z" fill="#D2A37B" stroke="#6C462F" stroke-width="1.7" stroke-linejoin="round"/>
+    <path d="M5,-12 C-3,-6 4,-1 -2,5 C-4,7 -4,10 -3,12" fill="none" stroke="#4B3023" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M-8,-1 C-7,-5 -5,-8 -2,-10" fill="none" stroke="#F2D0A7" stroke-width="1.45" stroke-linecap="round" opacity=".65"/>
+  </g>
+  <g transform="translate(132 59) rotate(17) scale(0.96)">
+    <path d="M0,-14 C-7,-15 -13,-8 -12,1 C-11,10 -4,15 4,13 C12,11 15,2 12,-6 C10,-11 5,-14 0,-14 Z" fill="#936248" stroke="#6C462F" stroke-width="1.7" stroke-linejoin="round"/>
+    <path d="M5,-12 C-3,-6 4,-1 -2,5 C-4,7 -4,10 -3,12" fill="none" stroke="#4B3023" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M-8,-1 C-7,-5 -5,-8 -2,-10" fill="none" stroke="#F2D0A7" stroke-width="1.45" stroke-linecap="round" opacity=".65"/>
+  </g>
+  <g transform="translate(158 37) rotate(-27) scale(0.7)">
+    <path d="M0,-14 C-7,-15 -13,-8 -12,1 C-11,10 -4,15 4,13 C12,11 15,2 12,-6 C10,-11 5,-14 0,-14 Z" fill="#BD906D" stroke="#6C462F" stroke-width="1.7" stroke-linejoin="round"/>
+    <path d="M5,-12 C-3,-6 4,-1 -2,5 C-4,7 -4,10 -3,12" fill="none" stroke="#4B3023" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M-8,-1 C-7,-5 -5,-8 -2,-10" fill="none" stroke="#F2D0A7" stroke-width="1.45" stroke-linecap="round" opacity=".65"/>
+  </g>
+</svg>
