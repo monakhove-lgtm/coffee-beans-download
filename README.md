@@ -1,4 +1,4 @@
-# <img src="assets/coffee-beans-icon.png" alt="Coffee Beans" width="40" height="40"> ☕ Coffee Beans — ваш кофейный журнал
+# <img src="assets/coffee-beans-launcher.svg" alt="Coffee Beans" width="40" height="40"> ☕ Coffee Beans — ваш кофейный журнал
 
 **Coffee Beans** — Android-приложение для любителей кофе: от выбора зерна до любимого рецепта. Основные функции работают без интернета и регистрации.
 
