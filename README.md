@@ -8,7 +8,7 @@
 
 **Coffee Beans** — Android-приложение для любителей кофе: от выбора зерна до любимого рецепта. Основные функции работают без интернета и регистрации.
 
-<p align="center"><strong>[⬇️ Скачать Coffee Beans для Android](https://github.com/monakhove-lgtm/coffee-beans-download/releases/latest/download/CoffeeBeans.apk)</strong></p>
+<p align="center"><a href="https://github.com/monakhove-lgtm/coffee-beans-download/releases/latest/download/CoffeeBeans.apk"><strong>⬇️ Скачать Coffee Beans для Android</strong></a></p>
 
 После скачивания откройте файл `CoffeeBeans.apk` на Android и подтвердите установку. Новая версия устанавливается поверх предыдущей, сохраняя данные приложения.
 
